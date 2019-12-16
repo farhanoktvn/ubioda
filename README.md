@@ -24,4 +24,4 @@ This is a compilation of UBIODA'S (AUAV-UI 2019 Team) waypoint and parameters fo
 For any further enquiries please contact [author](mailto:farhanoktvn@gmail.com)
 
 **DISCLAIMER**
-All the firmwares belongs to their respective owners and I do not own any of the firmwares. However, all the waypoint and parameter are free to use. 
+All the firmwares belongs to their respective owners and I do not own any of the firmwares. However, all the waypoint and parameter are free to use. Files on this repository may or may not be fit for the intended purpose. 
